@@ -1,0 +1,10 @@
+D:\desktop\Projetos\MVCTP\MVCTP\obj\Debug\MVCTP.csproj.AssemblyReference.cache
+D:\desktop\Projetos\MVCTP\MVCTP\obj\Debug\MVCTP.Properties.Resources.resources
+D:\desktop\Projetos\MVCTP\MVCTP\obj\Debug\MVCTP.csproj.GenerateResource.cache
+D:\desktop\Projetos\MVCTP\MVCTP\obj\Debug\MVCTP.csproj.CoreCompileInputs.cache
+D:\desktop\Projetos\MVCTP\MVCTP\bin\Debug\MVCTP.exe.config
+D:\desktop\Projetos\MVCTP\MVCTP\bin\Debug\MVCTP.exe
+D:\desktop\Projetos\MVCTP\MVCTP\bin\Debug\MVCTP.pdb
+D:\desktop\Projetos\MVCTP\MVCTP\obj\Debug\MVCTP.Form1.resources
+D:\desktop\Projetos\MVCTP\MVCTP\obj\Debug\MVCTP.exe
+D:\desktop\Projetos\MVCTP\MVCTP\obj\Debug\MVCTP.pdb
